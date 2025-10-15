@@ -48,7 +48,7 @@ $(function () {
     
     createCannon("bottom", 800, 2000)
     createCannon("bottom", 400, 2000)
-    createCannon("bottom",600, 2000)
+    createCannon("top",600, 2000)
 
     
     
