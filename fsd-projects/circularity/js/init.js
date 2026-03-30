@@ -49,15 +49,6 @@ drawCircle()
 
 
         // TODO 7 : Use a loop to create multiple circles
-drawCircle()
-
-drawCircle()
-
-drawCircle()
-
-drawCircle()
-
-drawCircle()
 
 for (var loopsCompleted = 0; loopsCompleted < 175; loopsCompleted++) {
 
@@ -80,6 +71,16 @@ for (var loopsCompleted = 0; loopsCompleted < 175; loopsCompleted++) {
             // TODO 4 : Update the position of each circle using physikz.updatePosition()
 
             physikz.updatePosition(circles[ 0 ])
+
+physikz.updatePosition(circles[ 1 ])
+
+physikz.updatePosition(circles[ 2 ])
+
+physikz.updatePosition(circles[ 3 ])
+
+physikz.updatePosition(circles[ 4 ])
+
+physikz.updatePosition(circles[ 0 ])
 
 physikz.updatePosition(circles[ 1 ])
 
